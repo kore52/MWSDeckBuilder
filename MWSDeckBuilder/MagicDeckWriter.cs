@@ -31,7 +31,7 @@ namespace MWSDeckBuilder
                     using (Stream fileStream = saveFileDialog.OpenFile())
                     using (StreamWriter sr = new StreamWriter(fileStream))
                     {
-                        WriteFile(sr);
+                        WriteFile(sr,test);
                     }
                 }
             }
