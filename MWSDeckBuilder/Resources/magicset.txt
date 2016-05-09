@@ -1,0 +1,146 @@
+Basic Set	Limited Edition Alpha	LEA	5-Aug-93	アルファ
+Basic Set	Limited Edition Beta	LEB	Oct-93	ベータ
+Basic Set	Unlimited Edition	2ED	Dec-93	アンリミテッド
+Basic Set	Revised Edition	3ED	Apr-94	リバイズド
+Basic Set	Fourth Edition	4ED	Apr-95	第4版
+Basic Set	Fifth Edition	5ED	24-Mar-97	第5版
+Basic Set	Classic Sixth Edition	6ED	28-Apr-99	第6版
+Basic Set	Seventh Edition	7ED	11-Apr-01	第7版
+Basic Set	Eighth Edition	8ED	28-Jul-03	第8版
+Basic Set	Ninth Edition	9ED	29-Jul-05	第9版
+Basic Set	Tenth Edition	10E	13-Jul-07	第10版
+Basic Set	Magic 2010	M10	17-Jul-09	マジック基本セット2010
+Basic Set	Magic 2011	M11	16-Jul-10	マジック基本セット2011
+Basic Set	Magic 2012	M12	15-Jul-11	マジック基本セット2012
+Basic Set	Magic 2013	M13	13-Jul-12	マジック基本セット2013
+Basic Set	Magic 2014 Core Set	M14	19-Jul-13	マジック基本セット2014
+Basic Set	Magic 2015 Core Set	M15	18-Jul-14	マジック基本セット2015
+Basic Set	Magic Origins	ORI	17-Jul-15	マジック・オリジン
+Old Expansion	Arabian Nights	ARN	Dec-93	アラビアン・ナイト
+Old Expansion	Antiquities	ATQ	Mar-94	アンティキティ
+Old Expansion	Legends	LEG	Jun-94	レジェンド
+Old Expansion	The Dark	DRK	Aug-94	ザ・ダーク
+Old Expansion	Fallen Empires	FEM	Nov-94	フォールン・エンパイア
+Old Expansion	Homelands	HML	Oct-95	ホームランド
+Ice Age Block	Ice Age	ICE	Jun-95	アイス・エイジ
+Ice Age Block	Alliances	ALL	10-Jun-96	アライアンス
+Ice Age Block	Coldsnap	CSP	21-Jul-06	コールドスナップ
+Mirage Block	Mirage	MIR	7-Oct-96	ミラージュ
+Mirage Block	Visions	VIS	3-Feb-97	ヴィジョンズ
+Mirage Block	Weatherlight	WTH	9-Jun-97	ウェザーライト
+Tempest Block	Tempest	TMP	13-Oct-97	テンペスト
+Tempest Block	Stronghold	STH	2-Mar-98	ストロングホールド
+Tempest Block	Exodus	EXO	15-Jun-98	エクソダス
+Urza Block	Urza's Saga	USG	12-Oct-98	ウルザズ・サーガ
+Urza Block	Urza's Legacy	ULG	15-Feb-99	ウルザズ・レガシー
+Urza Block	Urza's Destiny	UDS	7-Jun-99	ウルザズ・デスティニー
+Masques Block	Mercadian Masques	MMQ	4-Oct-99	メルカディアン・マスクス
+Masques Block	Nemesis	NMS	14-Feb-00	ネメシス
+Masques Block	Prophecy	PCY	5-Jun-00	プロフェシー
+Ivasion Block	Invasion	INV	2-Oct-00	インベイジョン
+Ivasion Block	Planeshift	PLS	5-Feb-01	プレーンシフト
+Ivasion Block	Apocalypse	APC	4-Jun-01	アポカリプス
+Odyssey Block	Odyssey	ODY	1-Oct-01	オデッセイ
+Odyssey Block	Torment	TOR	4-Feb-02	トーメント
+Odyssey Block	Judgment	JUD	27-May-02	ジャッジメント
+Onslaught Block	Onslaught	ONS	7-Oct-02	オンスロート
+Onslaught Block	Legions	LGN	3-Feb-03	レギオン
+Onslaught Block	Scourge	SCG	26-May-03	スカージ
+Mirrodin Block	Mirrodin	MRD	3-Oct-03	ミラディン
+Mirrodin Block	Darksteel	DST	6-Feb-04	ダークスティール
+Mirrodin Block	Fifth Dawn	5DN	4-Jun-04	フィフス・ドーン
+Kamigawa Block	Champions of Kamigawa	CHK	1-Oct-04	神河物語
+Kamigawa Block	Betrayers of Kamigawa	BOK	4-Feb-05	神河謀叛
+Kamigawa Block	Saviors of Kamigawa	SOK	3-Jun-05	神河救済
+Ravnica Block	Ravnica: City of Guilds	RAV	7-Oct-05	ラヴニカ：ギルドの都
+Ravnica Block	Guildpact	GPT	3-Feb-06	ギルドパクト
+Ravnica Block	Dissension	DIS	5-May-06	ディセンション
+Time Spiral Block	Time Spiral	TSP/TSB	6-Oct-06	時のらせん
+Time Spiral Block	Planar Chaos	PLC	2-Feb-07	次元の混乱
+Time Spiral Block	Future Sight	FUT	4-May-07	未来予知
+Lorwyn Block	Lorwyn	LRW	12-Oct-07	ローウィン
+Lorwyn Block	Morningtide	MOR	1-Feb-08	モーニングタイド
+Shadowmoor Block	Shadowmoor	SHM	2-May-08	シャドウムーア
+Shadowmoor Block	Eventide	EVE	25-Jul-08	イーブンタイド
+Alara Block	Shards of Alara	ALA	3-Oct-08	アラーラの断片
+Alara Block	Conflux	CON	6-Feb-09	コンフラックス
+Alara Block	Alara Reborn	ARB	30-Apr-09	アラーラの再誕
+Zendikar Block	Zendikar	ZEN	2-Oct-09	ゼンディカー
+Zendikar Block	Worldwake	WWK	5-Feb-10	ワールドウェイク
+Zendikar Block	Rise of the Eldrazi	ROE	23-Apr-10	エルドラージ覚醒
+Scars of Mirrodin Block	Scars of Mirrodin	SOM	1-Oct-10	ミラディンの傷跡
+Scars of Mirrodin Block	Mirrodin Besieged	MBS	4-Feb-11	ミラディン包囲戦
+Scars of Mirrodin Block	New Phyrexia	NPH	13-May-11	新たなるファイレクシア
+Innistrad Block	Innistrad	ISD	30-Sep-11	イニストラード
+Innistrad Block	Dark Ascension	DKA	3-Feb-12	闇の隆盛
+Innistrad Block	Avacyn Restored	AVR	4-May-12	アヴァシンの帰還
+Return to Ravnica Block	Return to Ravnica	RTR	5-Oct-12	ラヴニカへの回帰
+Return to Ravnica Block	Gatecrash	GTC	1-Feb-13	ギルド門侵犯
+Return to Ravnica Block	Dragon's Maze	DGM	3-May-13	ドラゴンの迷路
+Theros Block	Theros	THS	27-Sep-13	テーロス
+Theros Block	Born of the Gods	BNG	7-Feb-14	神々の軍勢
+Theros Block	Journey into Nyx	JOU	2-May-14	ニクスへの旅
+Tarkir Block	Khans of Tarkir	KTK	26-Sep-14	タルキール覇王譚
+Tarkir Block	Fate Reforged	FRF	23-Jan-15	運命再編
+Tarkir Block	Dragons of Tarkir	DTK	27-Mar-15	タルキール龍紀伝
+Battle for Zendikar Block	Battle for Zendikar	BFZ	2-Oct-15	戦乱のゼンディカー
+Battle for Zendikar Block	Oath of the Gatewatch	OGW	22-Jan-16	ゲートウォッチの誓い
+Battle for Zendikar Block	Zendikar Expeditions	EXP	2-Oct-15
+Shadows over Innistrad Block	Shadows over Innistrad	SOI	8-Apr-16	イニストラードを覆う影
+Shadows over Innistrad Block	Eldritch Moon	EMN 	22-Jul-16	異界月
+	Chronicles	CHR	Jul-95	クロニクル
+	Anthologies	ATH	Nov-98
+	Battle Royale Box Set	BRB	12-Nov-99
+	Beatdown Box Set	BTD	Dec-00
+	Deckmasters: Garfield vs. Finkel	DKM	17-Sep-01
+	Duels of the Planeswalkers (decks)	DPA	4-Jun-10
+	Archenemy	ARC	18-Jun-10	アーチエネミー
+	Modern Masters	MMA	7-Jun-13	モダンマスターズ
+	Modern Masters 2015 Edition	MM2	22-May-15	モダンマスターズ 2015
+	Eternal Masters	EMA	10-Jun-16	エターナルマスターズ
+	Duel Decks: Elves vs. Goblins	EVG	16-Nov-07
+	Duel Decks: Jace vs. Chandra	DD2	7-Nov-08
+	Duel Decks: Divine vs. Demonic	DDC	10-Apr-09
+	Duel Decks: Garruk vs. Liliana	DDD	30-Oct-09
+	Duel Decks: Phyrexia vs. the Coalition	DDE	19-Mar-10
+	Duel Decks: Elspeth vs. Tezzeret	DDF	3-Sep-10
+	Duel Decks: Knights vs. Dragons	DDG	1-Apr-11
+	Duel Decks: Ajani vs. Nicol Bolas	DDH	2-Sep-11
+	Duel Decks: Venser vs. Koth	DDI	30-Mar-12
+	Duel Decks: Izzet vs. Golgari	DDJ	7-Sep-12
+	Duel Decks: Sorin vs. Tibalt	DDK	15-Mar-13
+	Duel Decks: Heroes vs. Monsters	DDL	6-Sep-13
+	Duel Decks: Jace vs. Vraska	DDM	14-Mar-14
+	Duel Decks: Speed vs. Cunning	DDN	5-Sep-14
+	Duel Decks Anthology	DD3	5-Dec-14
+	Duel Decks: Elspeth vs. Kiora	DDO	27-Feb-15
+	Duel Decks: Zendikar vs. Eldrazi	DDP	28-Aug-15
+	Duel Decks: Blessed vs. Cursed	DDQ	26-Feb-16
+	From the Vault: Dragons	DRB	29-Aug-08
+	From the Vault: Exiled	V09	28-Aug-09
+	From the Vault: Relics	V10	27-Aug-10
+	From the Vault: Legends	V11	26-Aug-11
+	From the Vault: Realms	V12	31-Aug-12
+	From the Vault: Twenty	V13	23-Aug-13
+	From the Vault: Annihilation	V14	22-Aug-14
+	From the Vault: Angels	V15	21-Aug-15
+	From the Vault: Lore	unrevealed	19-Aug-16
+	Premium Deck Series: Slivers	H09	20-Nov-09
+	Premium Deck Series: Fire and Lightning	PD2	19-Nov-10
+	Premium Deck Series: Graveborn	PD3	18-Nov-11
+	Planechase	HOP	4-Sep-09
+	Planechase 2012 Edition	PC2	1-Jun-12
+	Commander	CMD	17-Jun-11	統率者
+	Commander's Arsenal	CM1	2-Nov-12
+	Commander 2013 Edition	C13	1-Nov-13	統率者 2013
+	Commander 2014	C14	7-Nov-14	統率者 2014
+	Commander 2015	C15	13-Nov-15	統率者 2015
+	Conspiracy	CNS	6-Jun-14	コンスピラシー
+	Conspiracy: Take the Crown	CN2	26-Aug-16
+	Portal	POR	Jun-97	ポータル
+	Portal Second Age	PO2	Jun-98	ポータル・セカンドエイジ
+	Portal Three Kingdoms	PTK	May-99	ポータル三国志
+	Starter 1999	S99	Jul-99	スターター1999
+	Starter 2000	S00	Jul-00	スターター2000
+	Unglued	UGL	7-Aug-98	アングルード
+	Unhinged	UNH	20-Nov-04	アンヒンジド

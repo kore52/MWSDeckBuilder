@@ -119,7 +119,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="data\" />
-    <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\0.png" />
@@ -163,6 +162,9 @@
     <Resource Include="Images\WB.png" />
     <Resource Include="Images\WU.png" />
     <Resource Include="Images\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\magicset.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
