@@ -64,15 +64,10 @@ namespace MWSDeckBuilder
         private void SaveDeckFile(string filename)
         {
             try
-            {/*
-                using (Stream fileStream = dlg.OpenFile())
-                using (StreamWriter sr = new StreamWriter(fileStream))
-                {
-                    var reader = new MagicDeckReader(database);
-                    var deck = reader.OpenDeckFile(deckFilePath);
-                    GridMainboard.ItemsSource = deck.Item1;
-                    GridSideboard.ItemsSource = deck.Item2;
-                }*/
+            {
+                var writer = new MagicDeckWriter(database);
+                var deck = new Tuple<ObservableCollection<MagicDeckCard>, ObservableCollection<MagicDeckCard>>(mainboard, sideboard);
+                writer.SaveDeckFile(filename, deck);
             }
             catch (Exception e)
             {
@@ -200,7 +195,7 @@ namespace MWSDeckBuilder
         {
             var dlg = new SaveFileDialog();
             dlg.FilterIndex = 1;
-            dlg.Filter = "MWS Format|*.mwDeck|MO Format|*.txt|";
+            dlg.Filter = "MWS Format|*.mwDeck|MO Format|*.txt";
             bool? result = dlg.ShowDialog();
             if (result == true)
             {

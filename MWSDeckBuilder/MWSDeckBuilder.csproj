@@ -85,7 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MODeckReader.cs" />
+    <Compile Include="MODeckWriter.cs" />
     <Compile Include="MWSDeckReader.cs" />
+    <Compile Include="MWSDeckWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

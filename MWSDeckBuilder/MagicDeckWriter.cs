@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,22 +18,25 @@ namespace MWSDeckBuilder
             this.cardSet = cardSet;
         }
 
-        public void SaveDeckFile(string filename)
+        public void SaveDeckFile(string filename, Tuple<ObservableCollection<MagicDeckCard>, ObservableCollection<MagicDeckCard>> deck)
         {
-            if (filename == "")
+            if (filename != "")
             {
-                var saveFileDialog = new SaveFileDialog();
-                saveFileDialog.FilterIndex = 1;
-                saveFileDialog.Filter = "MWS Format|*.mwDeck|MO Format|*.txt|";
-                bool? result = saveFileDialog.ShowDialog();
-                if (result == true)
+                using (StreamWriter sr = new StreamWriter(new FileStream(filename, FileMode.Create, FileAccess.Write)))
                 {
-                    string newFileName = saveFileDialog.SafeFileName;
-                    using (Stream fileStream = saveFileDialog.OpenFile())
-                    using (StreamWriter sr = new StreamWriter(fileStream))
+                    var extension = Path.GetExtension(filename).ToLower();
+                    switch (extension)
                     {
-                        WriteFile(sr,test);
+                        case ".txt":
+                            var mowriter = new MODeckWriter(sr, cardSet);
+                            mowriter.WriteFile(deck);
+                            break;
+                        case ".mwdeck":
+                            var mwswriter = new MWSDeckWriter(sr, cardSet);
+                            mwswriter.WriteFile(deck);
+                            break;
                     }
+                    sr.Flush();
                 }
             }
         }
